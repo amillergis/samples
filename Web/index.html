@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BSMS 2.0</title>
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="http://openlayers.org/en/v3.9.0/css/ol.css" type="text/css">
+  </head>
+  <body>
+    <div id="name" style="font-size: 24px;"></div>
+    <div id="map" class="map">
+      <div class="loader" hidden>
+        <img src="images/spinner.gif" alt=""/></br>
+        <span class="text-center">Loading Bus Stops ....</span>
+      </div>
+      <div id="popup" style="color: black; text-shadow: black 0.1em 0.1em 0.2em;cursor:default;font:bold 14px Arial Black, Gadget, sans-serif, sans-serif;-webkit-text-fill-color: white;-webkit-text-stroke-width: 1px;-webkit-text-stroke-color: black;"></div>
+      <div id="details" style="display:none;">
+        <div style="float:left;color:#ffffff;font-size:18px;padding:10px 20px;">Stop Details</div>
+        <div id="CloseDetails" style="float:right;width:35px;height:35px;cursor:pointer"></div>
+        <div id="detailsContent"></div>
+      </div>
+    </div>
+    <div id="idsearch">Search By Stop ID <input class="SearchText" type="text" id="txtboxid" />&nbsp;<button class="SearchButton">Search</button></div>
+    <!-- data-main attribute tells require.js to load scripts/main.js after require.js loads. -->
+    <script data-main="javascript/main" src="javascript/require.js"></script>
+  </body>
+</html>

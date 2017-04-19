@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="100"
+   height="100"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="GreenArrow.svg"
+   inkscape:export-filename="G:\BusinessIntelligence\_Open\GIS\Symbols\GreenArrow.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"><metadata
+   id="metadata28"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1680"
+   inkscape:window-height="935"
+   id="namedview26"
+   showgrid="false"
+   inkscape:zoom="2.1454545"
+   inkscape:cx="55"
+   inkscape:cy="55"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" />
+ <defs
+   id="defs4">
+  <linearGradient
+   id="linGrad"
+   x1="55"
+   y1="12.5"
+   x2="55"
+   y2="55"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.99009901,0,0,0.99009901,-4.4554455,-4.4554456)">
+   <stop
+   offset="0"
+   style="stop-color:white;stop-opacity:1"
+   id="stop7" />
+   <stop
+   offset="1"
+   style="stop-color:white;stop-opacity:0"
+   id="stop9" />
+  </linearGradient>
+  <radialGradient
+   id="radGrad"
+   cx="55"
+   cy="55"
+   r="101"
+   fx="55"
+   fy="80.25"
+   gradientUnits="userSpaceOnUse">
+   <stop
+   offset="0"
+   style="stop-color:#d5fc00;"
+   id="stop12" />
+   <stop
+   offset="0.45"
+   style="stop-color:#6bbb03;"
+   id="stop14" />
+   <stop
+   offset="1"
+   style="stop-color:#589903;"
+   id="stop16" />
+  </radialGradient>
+ </defs>
+ <circle
+   cx="55"
+   cy="55"
+   r="47.5"
+   style="fill:url(#radGrad);stroke:#296c29;stroke-width:6"
+   id="circle18"
+   sodipodi:cx="55"
+   sodipodi:cy="55"
+   sodipodi:rx="47.5"
+   sodipodi:ry="47.5"
+   transform="matrix(0.99009901,0,0,0.99009901,-4.4554455,-4.4554456)" />
+ <circle
+   cx="55"
+   cy="55"
+   r="44"
+   style="fill:none;stroke:#e1f0ca;stroke-width:1;stroke-opacity:0.75"
+   id="circle20"
+   sodipodi:cx="55"
+   sodipodi:cy="55"
+   sodipodi:rx="44"
+   sodipodi:ry="44"
+   transform="matrix(0.99009901,0,0,0.99009901,-4.4554455,-4.4554456)" />
+ <polygon
+   style="fill:#303c11"
+   points="60.8844,79.1156 85,55 85,55 60.8844,30.8844 42.6864,30.8844 60.3839,48.5819 25,48.5819 25,61.4181 60.3839,61.4181 42.6864,79.1156 "
+   id="polygon22"
+   transform="matrix(0.99009901,0,0,0.99009901,-4.4554455,-4.4554456)" />
+ <path
+   style="fill:url(#linGrad)"
+   d="m 50,7.9207914 c 15.571781,0 29.169505,8.4631686 36.446337,21.0394076 C 79.169505,41.536436 65.571781,50.0001 50,50.0001 34.42822,50.0001 20.830496,41.536436 13.55366,28.960199 20.830496,16.38396 34.42822,7.9207914 50,7.9207914 l 0,0 z"
+   id="path24"
+   inkscape:connector-curvature="0" />
+</svg>
